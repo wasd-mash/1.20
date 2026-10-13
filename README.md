@@ -15,22 +15,24 @@ Welcome to EAGLYMC 1.20! This project is an exciting adaptation of Eaglercraft, 
 
 **DaniezOnSFUSD** For editing the original html by Chocofush and adding a few things (Original Author **Retired**)
 
+And no credit to myself (wasd-mash)! Whoo hoo!
+
 ## Important Notice
 
 **Please be aware that this version of Eaglercraft is designed for shared worlds only and does not support connecting to external servers.** Users are encouraged to take advantage of the shared worlds feature to enjoy a collaborative gaming experience. Multiplayer functionality may be impacted due to the use of relays, which are not managed by me. We cannot guarantee their availability, and as such, any disruptions in relay services may affect your gameplay. If you would like to play on a server (ex. ArchMC) you can head to my links for [Resent Client](https://daniezonsfusd.github.io/1.8), and [AstraClient](https://daniezonsfusd.github.io/astraclient) which are both made by different people but I have put them on links for internet availibility and ease for people.
 
 ## Maintenince
-**This Link is NOT actively maintained. You may check the [RELEASES](https://github.com/DaniezOnsfusd/1.20/releases) to see when it was last updated and if it was for the link or for the page.** Please note that if something is not working, I will not fix it. The community may fix it, but as of **02/19/26**, this project will be mainly maintained by the community, with a few minor updates to the link and the page by me from time to time. You may check the latest post from me in the [Github Disiscussions](https://github.com/DaniezOnsfusd/1.20/discussions).
+**This Link is NOT actively maintained. (better stuff to do) You may check daniez's [RELEASES](https://github.com/DaniezOnsfusd/1.20/releases) to see when it was last updated and if it was for the link or for the page.** Please note that if something is not working, I will not fix it. The community may fix it, but as of **02/19/26**, this project will be mainly maintained by the community (me), with a few minor updates to the link and the page by me from time to time. You may check the latest post from daniez in the [Github Disiscussions](https://github.com/DaniezOnsfusd/1.20/discussions).
 
 ## How To Play
-1. Enter https://daniezonsfusd.github.io/1.20 in your browser bar or click the link
+1. Enter https://wasd-mash.github.io/1.20 in your browser bar or click the link
 2. Follow instructions if you don't have a certain setting on
 3. Have Fun!
 
 
 ### Acknowledgments
 
-This project operates under a **No Copyright** status to encourage sharing and collaboration within the community. Please respect the contributions made by the original creators and ensure to give credit where it is due.
+This project operates under a **No Copyright** status to encourage sharing and collaboration within the community. Please respect the contributions made by the original creators and ensure to give credit where it is due. Well, yeah I guess.
 
 ## Community Support
 
